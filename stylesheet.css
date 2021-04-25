@@ -1,0 +1,154 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+
+}
+
+
+.clear {
+  clear: left;
+}
+
+#header_logo {
+  font-family: 'Merriweather', serif;
+  color: white;
+  margin: 0px;
+  padding: 5px;
+}
+
+.container {
+  max-width: 1170px;
+  width: 100%;
+  padding: 0 15px;
+  margin: 0 auto;
+}
+
+.top-wrapper {
+  padding: 90px 0 100px 0;
+  background-image: url(tu-trinh--7IAOPhzesw-unsplash.jpg);
+  background-size: cover;
+  color: white;
+  text-align: center;
+  height: 900px;
+}
+
+.top-wrapper h1 {
+  font-size: 45px;
+  letter-spacing: 5px;
+}
+
+ul {
+  opacity: 0.9;
+  line-height: 25px;
+  padding-left: 0px;
+}
+
+li {
+  list-style: none;
+}
+
+#about {
+  font-size: 30px;
+}
+
+#reason {
+  margin: 0px;
+  font-size: 30px;
+}
+
+#what {
+  font-family: "Hiragino Kaku Gothic ProN";
+}
+
+#what_2 {
+  font-family: "Hiragino Kaku Gothic ProN";
+  font-size: 16px;
+  line-height: 12px;
+}
+
+#text {
+  opacity: 0.9;
+  background-color: #c9c7c3;
+  text-align: left;
+}
+
+
+header {
+  height: 65px;
+  width: 100%;
+  background-color: #bab2a6;
+  position :fixed;
+  top: 0;
+  z-index: 10;
+}
+
+.logo {
+  width: 124px;
+  margin-top: 20px;
+}
+
+.header-left {
+  text-align: center;
+}
+
+.lesson-wrapper {
+  padding-bottom: 0px;
+  padding-left: 5%;
+  padding-right: 5%;
+  background-color: #f7f7f7;
+  text-align: center;
+}
+
+.heading {
+  padding-top: 30px;
+  padding-bottom: 50px;
+  color: #5f5d60;
+}
+
+#what {
+  font-weight: normal;
+  font-family: 'Roboto', sans-serif;
+}
+
+.lesson {
+  float: left;
+  width: 25%;
+}
+
+.lesson-icon {
+  position: relative;
+}
+
+#in_box {
+  position: absolute;
+  top: 34%;
+  width: 100%;
+  color: white;
+  font-size: 22px;
+}
+
+.text-contents {
+  width: 80%;
+  display: inline-block;
+  margin-top: 15px;
+  font-size: 20px;
+  color: #b3aeb5;
+  text-align: left;
+}
+
+
+.message-wrapper {
+  border-bottom: 1px solid #eee;
+  padding-bottom: 40px;
+  text-align: center;
+  background-color: #bab2a6;
+}
+
+#last {
+  margin: 0px;
+  padding-top: 20px;
+  text-align: center;
+}
